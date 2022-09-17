@@ -1,0 +1,10 @@
+header {
+    font-family: Roboto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#keyToAdd {
+    font-size: 64px;
+}
